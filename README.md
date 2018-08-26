@@ -1,0 +1,2 @@
+# comcat
+Git comments storage.
